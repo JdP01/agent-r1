@@ -1,0 +1,5 @@
+#To run 
+source ./venv/bin/activate
+
+#To stop 
+
